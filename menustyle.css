@@ -1,0 +1,48 @@
+body{
+	background-color: lightgrey;
+font-family: 'Roboto', sans-serif;
+}
+h1{
+	border-bottom: 1px;
+	border-style:solid;
+	border-color: black;
+}
+p{
+	border-radius: 4px;
+	border-style:solid;
+	border-color: #def6ed;
+
+}
+
+div{
+	width:400px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin:0 auto;
+}
+img{
+	width: 300px;
+	height:300px;
+}
+.link{
+	width: 500px;
+	height: 500px;
+	margin:0 auto;
+	border-width: 200px;
+	border-style: solid;
+	border-color: purple;
+}
+	.zelda{
+		background-color: lightgrey;
+		width:400px;
+		margin-top: 0px;
+		margin-bottom:0px;
+		margin:0 auto;
+	}
+.ganondorf{
+	width:400px;
+	height: 300px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin:0 auto;
+	}
